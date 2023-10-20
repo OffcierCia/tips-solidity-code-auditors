@@ -7,8 +7,10 @@
 - Try [auditwizard.io](https://www.auditwizard.io/)!
 - Check out pre-built [security properties](https://github.com/0xNazgul/fuzzydefi) for commonly forked DeFi protocols!
 - MEV / Sandwich / Front-run & Back-run: [Compilation](https://telegra.ph/Cool-Pack-for-Chads-10-19) & [advanced](https://medium.com/1inch-network/advanced-mev-strategies-lp-sandwich-and-reverse-lp-sandwich-attacks-4558c631feff) info.
-- Try [Slither Detectors by Pessimistic.io](https://github.com/pessimistic-io/slitherin)!
+- Try [Slither Detectors by Pessimistic.io](https://github.com/pessimistic-io/slitherin) & check out [SolCurity](https://github.com/Rari-Capital/solcurity)!
+- Explore Web3 with full confidence guarded by [Web3Antivirus security browser extension.](https://web3antivirus.io/)
 - [Check out](https://officercia.mirror.xyz/DD3t4MB6J6GsRZlkqc8FSdW_4ZDa7pj6CAADzcGJiXo) R.xyz ([link!](https://r.xyz/)) and apply for a closed beta ([here](https://r.xyz/))!
+- Follow my [own blog](https://officercia.mirror.xyz/) & [Hexens' blog](https://hexens.io/blog)!
 
 # Useful Resources - by officercia.eth
 
@@ -50,5 +52,63 @@
 - [Remediate Web3: R.xyz](https://officercia.mirror.xyz/6hcUrIuAvO3OvICYK_MvcvGvximGxRIT8CpjSsggYro)
 - [Arbitrary Calls & New Slitherin Detector Release](https://officercia.mirror.xyz/tgIGArMaNUSZiYpsSht5RdKj_hHEvMUhR9Cyw32dmZk)
 
+# Awesome GitHub Lists
 
+- [DeFi Developer Road Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
+- [Awesome On-Chain Forensic HandBook](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List)
+- [Ultimate DeFi & Blockchain Research Base](https://github.com/OffcierCia/ultimate-defi-research-base)
+- [The Atypical OSINT Guide](https://github.com/OffcierCia/non-typical-OSINT-guide)
 
+# Work...?
+
+- [Web3 Security Distilled 2.0](https://officercia.mirror.xyz/VmSJDoV3c8xKDMRjTOl4DQ7KPgBTlb8cVdcTlOJxj1g)
+- [Crypto Jobs List - Main](https://docs.google.com/spreadsheets/d/1AfCSrl98bNGE5_Iq-N6zYx5xmuCBpoEkiBCDQD5Keh4/edit#gid=0)
+- [web3.smsunarto.com](https://web3.smsunarto.com)
+- [2023 Global Crypto Events & Hackathons](https://docs.google.com/spreadsheets/d/1uRB5lt67Eoxfattljko7IvuQvpqkLt66YpOev9XJ22o/edit?usp=sharing)
+- [Check out](https://officercia.mirror.xyz/DD3t4MB6J6GsRZlkqc8FSdW_4ZDa7pj6CAADzcGJiXo) R.xyz ([link!](https://r.xyz/)) and apply for a closed beta ([here](https://r.xyz/))!
+- [Crypto Telegram & Discord Channels & Chats](https://telegra.ph/Crypto-Telegram-Channels--Chats-04-19)
+- [Jobsincrypto](https://twitter.com/jobsincrypto)
+- [CryptoJobsList](https://twitter.com/CryptoJobsList)
+- [LobsterHR](https://t.me/lobsters_hr)
+- [DeveloperDAO](https://twitter.com/developer_dao)
+- [LidoGrants](https://twitter.com/LidoGrants)
+- [GitCoin](https://twitter.com/gitcoin)
+- [anonfriendly.com](http://anonfriendly.com)
+- [Web3grants](https://twitter.com/web3grants)
+- [hackathons.live](https://hackathons.live)
+- [hackenproof.com](http://hackenproof.com)
+- [bbscope](https://github.com/sw33tLie/bbscope)
+- [immunefi.com](https://immunefi.com)
+- [code4rena.com](https://code4rena.com)
+- [sherlock.xyz](https://www.sherlock.xyz)
+- [spearbit.com](https://spearbit.com)
+- [Web3SecurityDAO](https://twitter.com/Web3SecurityDAO)
+- [WHITE HAT DAO](https://twitter.com/White_Hat_DAO)
+- [Hats.Finance](https://twitter.com/HatsFinance)
+- [crypto-jobs-fyi.github.io](https://crypto-jobs-fyi.github.io/web/)
+- [auditjobs.xyz](https://auditjobs.xyz/)
+- [intropia.io/hire](https://intropia.io/hire)
+- [www.jobstash.xyz](https://www.jobstash.xyz)
+- [frontrunnrs.xyz](https://frontrunnrs.xyz)
+- [www.jobprotocol.xyz](https://www.jobprotocol.xyz)
+
+## Support Me:
+
+The best thing is to support me directly by donating to my address on Ethereum Main-net or any of the compatible networks or to any address from the list below:
+
+- **[0xB25C5E8fA1E53eEb9bE3421C59F6A66B786ED77A](https://etherscan.io/address/0xB25C5E8fA1E53eEb9bE3421C59F6A66B786ED77A)** — ERC20 & ETH [officercia.eth](https://etherscan.io/enslookup-search?search=officercia.eth)
+
+- **[17Ydx9m7vrhnx4XjZPuGPMqrhw3sDviNTU](https://blockchair.com/bitcoin/address/17Ydx9m7vrhnx4XjZPuGPMqrhw3sDviNTU)** - BTC
+
+- **4AhpUrDtfVSWZMJcRMJkZoPwDSdVG6puYBE3ajQABQo6T533cVvx5vJRc5fX7sktJe67mXu1CcDmr7orn1CrGrqsT3ptfds** - Monero/XMR
+
+- You can also support me by minting one of my [Mirror articles NFTs](https://officercia.mirror.xyz/)!
+
+#
+
+- [Check out my Telegram Channel](https://t.me/officer_cia)
+- [Follow my Twitter](https://twitter.com/officer_cia)
+- [Track all my activities](https://t.me/officer_cia/296)
+- [All my Socials](https://t.me/officer_cia/296)
+
+### **Thank you! Stay safe!**
