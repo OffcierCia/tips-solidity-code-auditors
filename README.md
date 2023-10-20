@@ -111,6 +111,7 @@
 - [The ultimate framework to best secure your Dapp and optimize the money spent on security reviews.](https://www.beirao.xyz/blog/Security-framework)
 - [Zk Proofs Explained](https://drive.google.com/file/d/12-e1g8Ad7q0avIOge-NELNBaDlpmk0TV/view)
 - [On Bitcon Custody...](https://www.youtube.com/watch?v=LTMAEN6wR8o)
+- [Join my TG folder!](https://t.me/addlist/uesom31GM1I4Yjgy)
 - [Flash Crash for Cash: Cyber Threats in Decentralized Finance](https://arxiv.org/pdf/2106.10740.pdf)
 - [This repo contains a comprehensive list of smart contract auditor tools and techniques that can be utilized by both smart contract auditors and blockchain developers for developing secure smart contracts](https://github.com/shanzson/Smart-Contract-Auditor-Tools-and-Techniques)
 - [Roadmap for Web3/Smart Contract Hacking | 2022](https://sm4rty.medium.com/roadmap-for-web3-smart-contract-hacking-2022-229e4e1565f9)
