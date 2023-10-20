@@ -5,6 +5,8 @@
 
 > Gaining the most elusive of tips. Add your input and let's collect them all!
 
+## General Tips & Suggestions
+
 - Did you know that you [can](https://docs.blink.sh/advanced/code) utilize [VSCode](https://marketplace.visualstudio.com/items?itemName=BlinkShellInc.blink-fs) on your iPad ([preferably](https://twitter.com/0xkasper/status/1680373205440102401) with a Magic Keyboard) using the [Blink App](https://apps.apple.com/us/app/blink-shell-build-code/id1594898306)? If not, watch the [following video](https://youtu.be/BsbQxSUdUOw)! I hope you find this [tip](https://twitter.com/0xkasper/status/1680373205440102401) useful in your work!
 - Clone any project, then upload extension into [vscode](https://github.com/juanfranblanco/vscode-solidityhttps://github.com/juanfranblanco/vscode-solidity), [2nd link](https://marketplace.visualstudio.com/items?itemName=Saw-mon-and-Natalie.vscode-evm-toolkit) -> add key from [sourcegraph](https://sourcegraph.com/search?q=context:global+file:MasterChef.sol&patternType=standard&sm=1&groupBy=repo), select the contract and the AI analyzes the structure of your project for you! Check out this [example](https://sourcegraph.com/search?q=context:global+file:MasterChef.sol&patternType=standard&sm=1&groupBy=repo)!
 - Try [auditwizard.io](https://www.auditwizard.io/) - revolutionize your workflow today!
@@ -21,7 +23,7 @@
 - Try out this tool - it scans constructor of [solidity smart contract for checks](https://github.com/elkaholic6/Solidity-constructor-analysis) to zero address.
 - [DeFi Common Fork Bugs List](https://github.com/YAcademy-Residents/defi-fork-bugs).
 
-# Tools & Services
+## Tools & Services
 
 - [sol2uml](https://github.com/naddison36/sol2uml)
 - [tx2uml](https://github.com/naddison36/tx2uml)
@@ -41,7 +43,7 @@
 - [tenderly.co](https://tenderly.co/)
 - [impersonator.xyz](https://www.impersonator.xyz/)
 
-# Useful Resources - by officercia.eth
+## Useful Resources - by officercia.eth
 
 - [Navigation Page](https://officercia.mirror.xyz/Uc1sf64yUCb0uo1DxR_nuif5EmMPs-RAshDyoAGEZZY)
 - [BalancerV1 Integration Tips](https://officercia.mirror.xyz/lp4VdemAThz7J-KnwfrMK2LS0XIG5g9Pn1chAHbEdTs)
@@ -81,14 +83,14 @@
 - [Remediate Web3: R.xyz](https://officercia.mirror.xyz/6hcUrIuAvO3OvICYK_MvcvGvximGxRIT8CpjSsggYro)
 - [Arbitrary Calls & New Slitherin Detector Release](https://officercia.mirror.xyz/tgIGArMaNUSZiYpsSht5RdKj_hHEvMUhR9Cyw32dmZk)
 
-# Awesome GitHub Lists
+## Awesome GitHub Lists
 
 - [DeFi Developer Road Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
 - [Awesome On-Chain Forensic HandBook](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List)
 - [Ultimate DeFi & Blockchain Research Base](https://github.com/OffcierCia/ultimate-defi-research-base)
 - [The Atypical OSINT Guide](https://github.com/OffcierCia/non-typical-OSINT-guide)
 
-# Additional Resources
+## Additional Resources
 
 - [MVP for OpSec](https://docs.google.com/document/u/0/d/1-_0Wlwch_vtkPM4F-SdEXLjQYaYT7KoPlU2rjt7tkLQ/mobilebasic)
 - [The ultimate framework to best secure your Dapp and optimize the money spent on security reviews.](https://www.beirao.xyz/blog/Security-framework)
@@ -101,7 +103,7 @@
 - [How to understand EVM byte code...](https://blog.trustlook.com/understand-evm-bytecode-part-1/)
 - [Awesome Blogs](https://start.me/p/QRg5ad/officercia) & [Explanation](https://t.me/officer_cia/155).
 
-# Work...?
+## Work...?
 
 - [Web3 Security Distilled 2.0](https://officercia.mirror.xyz/VmSJDoV3c8xKDMRjTOl4DQ7KPgBTlb8cVdcTlOJxj1g)
 - [Crypto Jobs List - Main](https://docs.google.com/spreadsheets/d/1AfCSrl98bNGE5_Iq-N6zYx5xmuCBpoEkiBCDQD5Keh4/edit#gid=0)
@@ -134,7 +136,7 @@
 - [frontrunnrs.xyz](https://frontrunnrs.xyz)
 - [www.jobprotocol.xyz](https://www.jobprotocol.xyz)
 
-# Support Me:
+## Support Me:
 
 The best thing is to support me directly by donating to my address on Ethereum Main-net or any of the compatible networks or to any address from the list below:
 
