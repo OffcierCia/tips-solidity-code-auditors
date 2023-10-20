@@ -13,6 +13,8 @@
 - Follow my [own blog](https://officercia.mirror.xyz/) & [Hexens' blog](https://hexens.io/blog)!
 - This project was created to support [Code4rena Bot Races with useful](https://github.com/DadeKuma/bot-racer) stats and tools. Read more about it [here](https://x.com/DadeKuma/status/1656199257454530562?s=20) & try [4naly3er](https://github.com/Picodes/4naly3er)!
 - [Bot Racing: The Rise of Web3 Bots.](https://coinsbench.com/bot-racing-the-rise-of-web3-bots-3abda06cd448) & [Code4Rena Bot Racing explained](https://www.youtube.com/watch?v=XVQLSeGTJ_M)!
+- Check out GasBad which is an open-source project that evaluates [gas efficiency in Solidity](https://github.com/ecivini/gas-bad) libraries!
+- Try out this tool - it scans constructor of [solidity smart contract for checks](https://github.com/elkaholic6/Solidity-constructor-analysis) to zero address.
 
 # Useful Resources - by officercia.eth
 
