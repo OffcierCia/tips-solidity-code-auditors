@@ -8,7 +8,7 @@
 - Check out pre-built [security properties](https://github.com/0xNazgul/fuzzydefi) for commonly forked DeFi protocols!
 - MEV / Sandwich / Front-run & Back-run: [Compilation](https://telegra.ph/Cool-Pack-for-Chads-10-19) & [advanced](https://medium.com/1inch-network/advanced-mev-strategies-lp-sandwich-and-reverse-lp-sandwich-attacks-4558c631feff) info.
 - Try [Slither Detectors by Pessimistic.io](https://github.com/pessimistic-io/slitherin)!
-- [Check out](https://officercia.mirror.xyz/DD3t4MB6J6GsRZlkqc8FSdW_4ZDa7pj6CAADzcGJiXo) R.xyz and apply for a closed beta ([here](https://r.xyz/))!
+- [Check out](https://officercia.mirror.xyz/DD3t4MB6J6GsRZlkqc8FSdW_4ZDa7pj6CAADzcGJiXo) R.xyz ([link!](https://r.xyz/)) and apply for a closed beta ([here](https://r.xyz/))!
 
 # Useful Resources - by officercia.eth
 
