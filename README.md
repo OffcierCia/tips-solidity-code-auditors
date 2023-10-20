@@ -8,6 +8,7 @@
 - Check out pre-built [security properties](https://github.com/0xNazgul/fuzzydefi) for commonly forked DeFi protocols!
 - MEV / Sandwich / Front-run & Back-run: [Compilation](https://telegra.ph/Cool-Pack-for-Chads-10-19) & [advanced](https://medium.com/1inch-network/advanced-mev-strategies-lp-sandwich-and-reverse-lp-sandwich-attacks-4558c631feff) info.
 - Try [Slither Detectors by Pessimistic.io](https://github.com/pessimistic-io/slitherin) & check out [SolCurity](https://github.com/Rari-Capital/solcurity)!
+- Give a try: [Pyrometer](https://github.com/nascentxyz/pyrometer) & [Sporalyzer](https://blog.fungify.it/p/introducing-sporalyzer-a-tool-for)!
 - Explore Web3 with full confidence guarded by [Web3Antivirus security browser extension.](https://web3antivirus.io/)
 - [Check out](https://officercia.mirror.xyz/DD3t4MB6J6GsRZlkqc8FSdW_4ZDa7pj6CAADzcGJiXo) R.xyz ([link!](https://r.xyz/)) and apply for a closed beta ([here](https://r.xyz/))!
 - Follow my [own blog](https://officercia.mirror.xyz/) & [Hexens' blog](https://hexens.io/blog)!
@@ -15,6 +16,22 @@
 - [Bot Racing: The Rise of Web3 Bots.](https://coinsbench.com/bot-racing-the-rise-of-web3-bots-3abda06cd448) & [Code4Rena Bot Racing explained](https://www.youtube.com/watch?v=XVQLSeGTJ_M)!
 - Check out GasBad which is an open-source project that evaluates [gas efficiency in Solidity](https://github.com/ecivini/gas-bad) libraries!
 - Try out this tool - it scans constructor of [solidity smart contract for checks](https://github.com/elkaholic6/Solidity-constructor-analysis) to zero address.
+- [DeFi Common Fork Bugs List](https://github.com/YAcademy-Residents/defi-fork-bugs)
+
+# Tools & Services
+
+- [sol2uml](https://github.com/naddison36/sol2uml)
+- [tx2uml](https://github.com/naddison36/tx2uml)
+- [EVM - Draw](https://twitter.com/danielvf/status/1637815201243320320) & [link](https://github.com/DanielVF/evm-contract-draw)
+- [openchain.xyz](https://openchain.xyz/trace)
+- [Vscode Solidity Inspector](https://github.com/PraneshASP/vscode-solidity-inspector)
+- [EVM Slot Reader](https://evm-slotreader.on.fleek.co)
+- [heimdall-rs](https://github.com/Jon-Becker/heimdall-rs)
+- [EVM Bench](https://github.com/ziyadedher/evm-bench)
+- [Function Selector Miner](https://github.com/kadenzipfel/function-selector-miner)
+- [Solhunt](https://github.com/iFrostizz/solhunt)
+- [ityfuzz](https://github.com/fuzzland/ityfuzz)
+- [EVM cfg](https://github.com/plotchy/evm-cfg)
 
 # Useful Resources - by officercia.eth
 
