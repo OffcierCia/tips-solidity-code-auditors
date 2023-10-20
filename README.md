@@ -37,17 +37,18 @@
 - [Price & Reward Manipulation Attacks Distilled](https://officercia.mirror.xyz/2SXrASlpw5L4PPQpXhJgiNyJ9b2CqfDzQHcGXZd4CHk)
 - [Read-only Reentrancy: In-Depth](https://officercia.mirror.xyz/DBzFiDuxmDOTQEbfXhvLdK0DXVpKu1Nkurk0Cqk3QKc)
 - [Web3 Security Distilled](https://officercia.mirror.xyz/xleAGwAmESpXaHtOSuXde-u3dEnNIcOH6kVcMw1z9iI)
-- [Arbitrum: Basic Features, Technical Details and Differences from Ethereum]
-- [AMM (Automatic Market Makers) Integration Tips]
-- [Web3 Security Distilled 2.0]
-- [Auditor’s Notes: Semantic Grep & Solidity 2.0]
-- Auditor’s Notes: ERC20 Integration Tips
-- Auditor’s Advice: Math, Solidity & Gas Optimizations | Part 1/3
-- Auditor’s Advice: Solidity Checklist & Reentrancy Attack | Part 2/3
-- Auditor’s Advice: EVM Limitations & Assembly Auditing Tips | Part 3/3
-- RustBlockSec | Part 1One
-- Auditor’s Notes: Initializing, Proxy, Oracles & Multi-Chain
-- Auditor’s Notes: Tokens, EIP-712 & Meta-Transactions
-- Remediate Web3: R.xyz
-- Arbitrary Calls & New Slitherin Detector Release
+- [Arbitrum: Basic Features, Technical Details and Differences from Ethereum](https://officercia.mirror.xyz/d798TVQyA1ALq3qr1R9vvujdF7x-erXxK2wQWwbgRKY)
+- [AMM (Automatic Market Makers) Integration Tips](https://officercia.mirror.xyz/dUf_OxeK8KvAWfdWHNaikJxDTEkfPRypFqnETJiMic4)
+- [Web3 Security Distilled 2.0](https://officercia.mirror.xyz/VmSJDoV3c8xKDMRjTOl4DQ7KPgBTlb8cVdcTlOJxj1g)
+- [Auditor’s Notes: Semantic Grep & Solidity 2.0](https://officercia.mirror.xyz/ykm5D6Rq1I-A74fLcQdkj8oBFhDImzF5UijNp7TWm3k)
+- [Auditor’s Notes: ERC20 Integration Tips](https://officercia.mirror.xyz/W6V7cWFfK8xuHvezjGL-kyen6c1aJwlvqtwtlpIS53A)
+- [Auditor’s Advice: Math, Solidity & Gas Optimizations | Part 1/3](https://officercia.mirror.xyz/vtVVxbV35ETiBGxm-IpcFPcsK2_ZkL7vgiiGUkeSsP0)
+- [Auditor’s Advice: Solidity Checklist & Reentrancy Attack | Part 2/3](https://officercia.mirror.xyz/AoRdvL3Lp5K5JHjlgpWaOHo_CehH-amZSAm9pxuFdwQ)
+- [Auditor’s Advice: EVM Limitations & Assembly Auditing Tips | Part 3/3](https://officercia.mirror.xyz/UDdVm2Nhc4obWJz9Sc-5MeYEZC4Lx04POy9M4v3cM34)
+- [Auditor’s Notes: Initializing, Proxy, Oracles & Multi-Chain](https://officercia.mirror.xyz/y7pHWYwL6cQwsSToolCvg2EuMkHZK5dfDSiRtS0akX8)
+- [Auditor’s Notes: Tokens, EIP-712 & Meta-Transactions](https://officercia.mirror.xyz/nlIR1RkT5xIv4sZFYiOXCPhF2BJyAaJtOeVr6zsULsA)
+- [Remediate Web3: R.xyz](https://officercia.mirror.xyz/6hcUrIuAvO3OvICYK_MvcvGvximGxRIT8CpjSsggYro)
+- [Arbitrary Calls & New Slitherin Detector Release](https://officercia.mirror.xyz/tgIGArMaNUSZiYpsSht5RdKj_hHEvMUhR9Cyw32dmZk)
+
+
 
