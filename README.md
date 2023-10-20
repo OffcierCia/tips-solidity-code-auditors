@@ -17,24 +17,26 @@
 
 ## General Tips & Suggestions
 
-- Did you know that you [can](https://docs.blink.sh/advanced/code) utilize [VSCode](https://marketplace.visualstudio.com/items?itemName=BlinkShellInc.blink-fs) on your iPad ([preferably](https://twitter.com/0xkasper/status/1680373205440102401) with a Magic Keyboard) using the [Blink App](https://apps.apple.com/us/app/blink-shell-build-code/id1594898306)? If not, watch the [following video](https://youtu.be/BsbQxSUdUOw)! I hope you find this [tip](https://twitter.com/0xkasper/status/1680373205440102401) useful in your work!
-- Clone any project, then upload extension into [vscode](https://github.com/juanfranblanco/vscode-solidityhttps://github.com/juanfranblanco/vscode-solidity), [2nd link](https://marketplace.visualstudio.com/items?itemName=Saw-mon-and-Natalie.vscode-evm-toolkit) -> add key from [sourcegraph](https://sourcegraph.com/search?q=context:global+file:MasterChef.sol&patternType=standard&sm=1&groupBy=repo), select the contract and the AI analyzes the structure of your project for you! Check out this [example](https://sourcegraph.com/search?q=context:global+file:MasterChef.sol&patternType=standard&sm=1&groupBy=repo)!
-- Try [auditwizard.io](https://www.auditwizard.io/) - revolutionize your workflow today!
-- Check out pre-built [security properties](https://github.com/0xNazgul/fuzzydefi) for commonly forked DeFi protocols.
-- MEV / Sandwich / Front-run & Back-run: [Compilation](https://telegra.ph/Cool-Pack-for-Chads-10-19) & [advanced](https://medium.com/1inch-network/advanced-mev-strategies-lp-sandwich-and-reverse-lp-sandwich-attacks-4558c631feff) info.
-- Try [Slither Detectors by Pessimistic.io](https://github.com/pessimistic-io/slitherin) & check out [SolCurity](https://github.com/Rari-Capital/solcurity).
-- Give a try: [Pyrometer](https://github.com/nascentxyz/pyrometer) & [Sporalyzer](https://blog.fungify.it/p/introducing-sporalyzer-a-tool-for).
-- Explore Web3 with full confidence guarded by [Web3Antivirus security browser extension.](https://web3antivirus.io/)
-- [Try using obsidian.md for notes!](https://github.com/WebBreacher/obsidian-osint-templates) & check out [Audit Quality](https://github.com/audit-quality)!
-- [Check out](https://officercia.mirror.xyz/DD3t4MB6J6GsRZlkqc8FSdW_4ZDa7pj6CAADzcGJiXo) R.xyz ([link!](https://r.xyz/)) and apply for a closed beta ([here](https://r.xyz/))!
-- Follow my [own blog](https://officercia.mirror.xyz/) & [Hexens' blog](https://hexens.io/blog)!
-- This project was created to support [Code4rena Bot Races with useful](https://github.com/DadeKuma/bot-racer) stats and tools. Read more about it [here](https://x.com/DadeKuma/status/1656199257454530562?s=20) & try [4naly3er](https://github.com/Picodes/4naly3er)!
-- [Bot Racing: The Rise of Web3 Bots.](https://coinsbench.com/bot-racing-the-rise-of-web3-bots-3abda06cd448) & [Code4Rena Bot Racing explained](https://www.youtube.com/watch?v=XVQLSeGTJ_M)!
-- Check out GasBad which is an open-source project that evaluates [gas efficiency in Solidity](https://github.com/ecivini/gas-bad) libraries!
-- Try out this tool - it scans constructor of [solidity smart contract for checks](https://github.com/elkaholic6/Solidity-constructor-analysis) to zero address.
-- [DeFi Common Fork Bugs List](https://github.com/YAcademy-Residents/defi-fork-bugs).
-- Try using [Semgrep rules for smart contracts](https://github.com/Decurity/semgrep-smart-contracts) based on DeFi exploits!
-- Complete this [set of tasks](https://github.com/pessimistic-io/internship-tasks) & check out this curated [list of web3Security materials and resources](https://github.com/Anugrahsr/Awesome-web3-Security) For Pentesters and Bug Hunters! Also check out [AuditorsRoadmap](https://github.com/razzorsec/AuditorsRoadmap) mind-map.
+1.  Did you know that you [can](https://docs.blink.sh/advanced/code) utilize [VSCode](https://marketplace.visualstudio.com/items?itemName=BlinkShellInc.blink-fs) on your iPad ([preferably](https://twitter.com/0xkasper/status/1680373205440102401) with a Magic Keyboard) using the [Blink App](https://apps.apple.com/us/app/blink-shell-build-code/id1594898306)? If not, watch the [following video](https://youtu.be/BsbQxSUdUOw)! I hope you find this [tip](https://twitter.com/0xkasper/status/1680373205440102401) useful in your work!
+2. Clone any project, then upload extension into [vscode](https://github.com/juanfranblanco/vscode-solidityhttps://github.com/juanfranblanco/vscode-solidity), [2nd link](https://marketplace.visualstudio.com/items?itemName=Saw-mon-and-Natalie.vscode-evm-toolkit) -> add key from [sourcegraph](https://sourcegraph.com/search?q=context:global+file:MasterChef.sol&patternType=standard&sm=1&groupBy=repo), select the contract and the AI analyzes the structure of your project for you! Check out this [example](https://sourcegraph.com/search?q=context:global+file:MasterChef.sol&patternType=standard&sm=1&groupBy=repo)!
+3. Try [auditwizard.io](https://www.auditwizard.io/) - revolutionize your workflow today!
+4. Check out pre-built [security properties](https://github.com/0xNazgul/fuzzydefi) for commonly forked DeFi protocols.
+5. MEV / Sandwich / Front-run & Back-run: [Compilation](https://telegra.ph/Cool-Pack-for-Chads-10-19) & [advanced](https://medium.com/1inch-network/advanced-mev-strategies-lp-sandwich-and-reverse-lp-sandwich-attacks-4558c631feff) info.
+6. Try [Slither Detectors by Pessimistic.io](https://github.com/pessimistic-io/slitherin) & check out [SolCurity](https://github.com/Rari-Capital/solcurity).
+7. Give a try: [Pyrometer](https://github.com/nascentxyz/pyrometer) & [Sporalyzer](https://blog.fungify.it/p/introducing-sporalyzer-a-tool-for).
+8. Explore Web3 with full confidence guarded by [Web3Antivirus security browser extension.](https://web3antivirus.io/)
+9. [Try using obsidian.md for notes!](https://github.com/WebBreacher/obsidian-osint-templates) & check out [Audit Quality](https://github.com/audit-quality)!
+10. [Check out](https://officercia.mirror.xyz/DD3t4MB6J6GsRZlkqc8FSdW_4ZDa7pj6CAADzcGJiXo) R.xyz ([link!](https://r.xyz/)) and apply for a closed beta ([here](https://r.xyz/))!
+11. Follow my [own blog](https://officercia.mirror.xyz/) & [Hexens' blog](https://hexens.io/blog)!
+12. This project was created to support [Code4rena Bot Races with useful](https://github.com/DadeKuma/bot-racer) stats and tools. Read more about it [here](https://x.com/DadeKuma/status/1656199257454530562?s=20) & try [4naly3er](https://github.com/Picodes/4naly3er)!
+13. [Bot Racing: The Rise of Web3 Bots.](https://coinsbench.com/bot-racing-the-rise-of-web3-bots-3abda06cd448) & [Code4Rena Bot Racing explained](https://www.youtube.com/watch?v=XVQLSeGTJ_M)!
+14. Check out GasBad which is an open-source project that evaluates [gas efficiency in Solidity](https://github.com/ecivini/gas-bad) libraries!
+15. Try out this tool - it scans constructor of [solidity smart contract for checks](https://github.com/elkaholic6/Solidity-constructor-analysis) to zero address.
+16. [DeFi Common Fork Bugs List](https://github.com/YAcademy-Residents/defi-fork-bugs).
+17. Try using [Semgrep rules for smart contracts](https://github.com/Decurity/semgrep-smart-contracts) based on DeFi exploits!
+18. Complete this [set of tasks](https://github.com/pessimistic-io/internship-tasks) & check out this curated [list of web3Security materials and resources](https://github.com/Anugrahsr/Awesome-web3-Security) For Pentesters and Bug Hunters!
+19. Let's break down such a concept as mind-mapping - [study this list](https://github.com/OffcierCia/non-typical-OSINT-guide#mind-mapping) & check out [AuditorsRoadmap](https://github.com/razzorsec/AuditorsRoadmap) mind-map!
+20. [How To Learn Fast?](https://degatchi.com/articles/how-to-learn-fast)
 
 ## Tools & Services
 
