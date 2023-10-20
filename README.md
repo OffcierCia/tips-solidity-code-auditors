@@ -11,6 +11,7 @@
 - Explore Web3 with full confidence guarded by [Web3Antivirus security browser extension.](https://web3antivirus.io/)
 - [Check out](https://officercia.mirror.xyz/DD3t4MB6J6GsRZlkqc8FSdW_4ZDa7pj6CAADzcGJiXo) R.xyz ([link!](https://r.xyz/)) and apply for a closed beta ([here](https://r.xyz/))!
 - Follow my [own blog](https://officercia.mirror.xyz/) & [Hexens' blog](https://hexens.io/blog)!
+- This project was created to support [Code4rena Bot Races with useful](https://github.com/DadeKuma/bot-racer) stats and tools. Read more about it [here](https://x.com/DadeKuma/status/1656199257454530562?s=20) & try [4naly3er](https://github.com/Picodes/4naly3er)!
 
 # Useful Resources - by officercia.eth
 
