@@ -7,7 +7,7 @@
 
 - Did you know that you [can](https://docs.blink.sh/advanced/code) utilize [VSCode](https://marketplace.visualstudio.com/items?itemName=BlinkShellInc.blink-fs) on your iPad ([preferably](https://twitter.com/0xkasper/status/1680373205440102401) with a Magic Keyboard) using the [Blink App](https://apps.apple.com/us/app/blink-shell-build-code/id1594898306)? If not, watch the [following video](https://youtu.be/BsbQxSUdUOw)! I hope you find this [tip](https://twitter.com/0xkasper/status/1680373205440102401) useful in your work!
 - Clone any project, then upload extension into [vscode](https://github.com/juanfranblanco/vscode-solidityhttps://github.com/juanfranblanco/vscode-solidity), [2nd link](https://marketplace.visualstudio.com/items?itemName=Saw-mon-and-Natalie.vscode-evm-toolkit) -> add key from [sourcegraph](https://sourcegraph.com/search?q=context:global+file:MasterChef.sol&patternType=standard&sm=1&groupBy=repo), select the contract and the AI analyzes the structure of your project for you! Check out this [example](https://sourcegraph.com/search?q=context:global+file:MasterChef.sol&patternType=standard&sm=1&groupBy=repo)!
-- Try [auditwizard.io](https://www.auditwizard.io/)!
+- Try [auditwizard.io](https://www.auditwizard.io/) - revolutionize your workflow today!
 - Check out pre-built [security properties](https://github.com/0xNazgul/fuzzydefi) for commonly forked DeFi protocols!
 - MEV / Sandwich / Front-run & Back-run: [Compilation](https://telegra.ph/Cool-Pack-for-Chads-10-19) & [advanced](https://medium.com/1inch-network/advanced-mev-strategies-lp-sandwich-and-reverse-lp-sandwich-attacks-4558c631feff) info.
 - Try [Slither Detectors by Pessimistic.io](https://github.com/pessimistic-io/slitherin) & check out [SolCurity](https://github.com/Rari-Capital/solcurity)!
@@ -19,7 +19,7 @@
 - [Bot Racing: The Rise of Web3 Bots.](https://coinsbench.com/bot-racing-the-rise-of-web3-bots-3abda06cd448) & [Code4Rena Bot Racing explained](https://www.youtube.com/watch?v=XVQLSeGTJ_M)!
 - Check out GasBad which is an open-source project that evaluates [gas efficiency in Solidity](https://github.com/ecivini/gas-bad) libraries!
 - Try out this tool - it scans constructor of [solidity smart contract for checks](https://github.com/elkaholic6/Solidity-constructor-analysis) to zero address.
-- [DeFi Common Fork Bugs List](https://github.com/YAcademy-Residents/defi-fork-bugs)
+- [DeFi Common Fork Bugs List](https://github.com/YAcademy-Residents/defi-fork-bugs).
 
 # Tools & Services
 
@@ -116,7 +116,7 @@
 - [frontrunnrs.xyz](https://frontrunnrs.xyz)
 - [www.jobprotocol.xyz](https://www.jobprotocol.xyz)
 
-## Support Me:
+# Support Me:
 
 The best thing is to support me directly by donating to my address on Ethereum Main-net or any of the compatible networks or to any address from the list below:
 
