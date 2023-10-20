@@ -47,6 +47,7 @@
 - [Solhunt](https://github.com/iFrostizz/solhunt)
 - [ityfuzz](https://github.com/fuzzland/ityfuzz)
 - [EVM cfg](https://github.com/plotchy/evm-cfg)
+- [evm.storage](https://evm.storage/)
 - [cadcad.org](https://cadcad.org)
 - [tecommons.org](https://tecommons.org)
 - [machinations.io](https://machinations.io)
