@@ -1,9 +1,19 @@
 # Tips for Solidity Code Auditors
 
-[![Support Project](https://img.shields.io/badge/Support-Project-critical)](https://github.com/OffcierCia/support/blob/main/README.md)
-[![Mail](https://img.shields.io/badge/Mail-offcierciapr%40protonmail.com-brightgreen)](mailto:offcierciapr@protonmail.com)
+| Section                    | Link                                                                                                                         |
+|----------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| General Tips & Suggestions | [Explore](https://github.com/OffcierCia/tips-solidity-code-auditors/blob/main/README.md#general-tips--suggestions)           |
+| Tools & Services           | [Explore](https://github.com/OffcierCia/tips-solidity-code-auditors/blob/main/README.md#tools--services)                     |
+| Useful Resources           | [Explore](https://github.com/OffcierCia/tips-solidity-code-auditors/blob/main/README.md#useful-resources---by-officerciaeth) |
+| Awesome GitHub Lists       | [Explore](https://github.com/OffcierCia/tips-solidity-code-auditors/blob/main/README.md#awesome-github-lists)                |
+| Additional Resources       | [Explore](https://github.com/OffcierCia/tips-solidity-code-auditors/blob/main/README.md#additional-resources)                |
+| Work...?                   | [Explore](https://github.com/OffcierCia/tips-solidity-code-auditors/blob/main/README.md#work)                                |
+| Support Me:                | [Explore](https://github.com/OffcierCia/tips-solidity-code-auditors/blob/main/README.md#support-me)                          |
 
 > Gaining the most elusive of tips. Add your input and let's collect them all!
+
+[![Support Project](https://img.shields.io/badge/Support-Project-critical)](https://github.com/OffcierCia/support/blob/main/README.md)
+[![Mail](https://img.shields.io/badge/Mail-offcierciapr%40protonmail.com-brightgreen)](mailto:offcierciapr@protonmail.com)
 
 ## General Tips & Suggestions
 
