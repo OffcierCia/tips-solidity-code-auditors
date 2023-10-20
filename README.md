@@ -35,6 +35,11 @@
 - [Solhunt](https://github.com/iFrostizz/solhunt)
 - [ityfuzz](https://github.com/fuzzland/ityfuzz)
 - [EVM cfg](https://github.com/plotchy/evm-cfg)
+- [cadcad.org](https://cadcad.org)
+- [tecommons.org](https://tecommons.org)
+- [machinations.io](https://machinations.io)
+- [tenderly.co](https://tenderly.co/)
+- [impersonator.xyz](https://www.impersonator.xyz/)
 
 # Useful Resources - by officercia.eth
 
@@ -82,6 +87,19 @@
 - [Awesome On-Chain Forensic HandBook](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List)
 - [Ultimate DeFi & Blockchain Research Base](https://github.com/OffcierCia/ultimate-defi-research-base)
 - [The Atypical OSINT Guide](https://github.com/OffcierCia/non-typical-OSINT-guide)
+
+# Additional Resources
+
+- [MVP for OpSec](https://docs.google.com/document/u/0/d/1-_0Wlwch_vtkPM4F-SdEXLjQYaYT7KoPlU2rjt7tkLQ/mobilebasic)
+- [The ultimate framework to best secure your Dapp and optimize the money spent on security reviews.](https://www.beirao.xyz/blog/Security-framework)
+- [Zk Proofs Explained](https://drive.google.com/file/d/12-e1g8Ad7q0avIOge-NELNBaDlpmk0TV/view)
+- [On Bitcon Custody...](https://www.youtube.com/watch?v=LTMAEN6wR8o)
+- [What happens when you send 1 DAI](https://www.notonlyowner.com/learn/what-happens-when-you-send-one-dai/)
+- [How to Read Smart Contracts](https://defieducation.substack.com/p/how-to-read-smart-contracts-part)
+- [Pentacle Security List](https://pentacle.xyz/projects/security)
+- [ list of FREE resources to make Web3 accessible to everyone.](https://github.com/FrancescoXX/100-days-of-Web3)
+- [How to understand EVM byte code...](https://blog.trustlook.com/understand-evm-bytecode-part-1/)
+- [Awesome Blogs](https://start.me/p/QRg5ad/officercia) & [Explanation](https://t.me/officer_cia/155).
 
 # Work...?
 
