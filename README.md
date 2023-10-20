@@ -118,6 +118,7 @@
 - [Web3 Security Distilled 2.0](https://officercia.mirror.xyz/VmSJDoV3c8xKDMRjTOl4DQ7KPgBTlb8cVdcTlOJxj1g)
 - [Crypto Jobs List - Main](https://docs.google.com/spreadsheets/d/1AfCSrl98bNGE5_Iq-N6zYx5xmuCBpoEkiBCDQD5Keh4/edit#gid=0)
 - [web3.smsunarto.com](https://web3.smsunarto.com)
+- [hexens.io/careers](https://hexens.io/careers)
 - [2023 Global Crypto Events & Hackathons](https://docs.google.com/spreadsheets/d/1uRB5lt67Eoxfattljko7IvuQvpqkLt66YpOev9XJ22o/edit?usp=sharing)
 - [Check out](https://officercia.mirror.xyz/DD3t4MB6J6GsRZlkqc8FSdW_4ZDa7pj6CAADzcGJiXo) R.xyz ([link!](https://r.xyz/)) and apply for a closed beta ([here](https://r.xyz/))!
 - [Crypto Telegram & Discord Channels & Chats](https://telegra.ph/Crypto-Telegram-Channels--Chats-04-19)
