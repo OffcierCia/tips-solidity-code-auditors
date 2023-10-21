@@ -223,6 +223,7 @@
 - [auditjobs.xyz](https://auditjobs.xyz/)
 - [intropia.io/hire](https://intropia.io/hire)
 - [solodit.xyz](https://solodit.xyz)
+- [codehawks.com](https://www.codehawks.com)
 - [www.jobstash.xyz](https://www.jobstash.xyz)
 - [frontrunnrs.xyz](https://frontrunnrs.xyz)
 - [www.jobprotocol.xyz](https://www.jobprotocol.xyz)
