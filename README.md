@@ -51,6 +51,8 @@
 - [Function Selector Miner](https://github.com/kadenzipfel/function-selector-miner)
 - [explorer.swiss-knife.xyz](https://explorer.swiss-knife.xyz/)
 - [Solhunt](https://github.com/iFrostizz/solhunt)
+- [Solsec](https://github.com/0xsanny/solsec)
+- [Gas Gauge](https://arxiv.org/abs/2112.14771)
 - [ityfuzz](https://github.com/fuzzland/ityfuzz)
 - [evmdiff.com](https://www.evmdiff.com/)
 - [contract-diff.xyz](https://contract-diff.xyz/)
@@ -77,6 +79,8 @@
 - [machinations.io](https://machinations.io)
 - [tenderly.co](https://tenderly.co/)
 - [impersonator.xyz](https://www.impersonator.xyz/)
+- [A 4-hr smart contract fuzzer speed run.](https://github.com/0xalpharush/fuzzing-like-a-degen)
+- [Fuzzing cryptographic libraries. Magic bug printer go brrrr.](https://github.com/guidovranken/cryptofuzz)
 
 ## Useful Resources - by officercia.eth
 
@@ -136,6 +140,7 @@
 - [Vault Math - How much shares to mint? How much token to withdraw?](https://www.youtube.com/watch?v=k7WNibJOBXE)
 - [Foundry Cheatsheet](https://github.com/dabit3/foundry-cheatsheet)
 - [Yet Another Audit DB](https://auth.auditbase.com)
+- [Template repository intended to ease fuzzing components of Solidity projects, especially libraries.](https://github.com/patrickd-/solidity-fuzzing-boilerplate)
 - [An interactive Solidity shell with lightweight session recording and remote compiler support.](https://github.com/tintinweb/solidity-shell)
 - [Gas Numbers Every Solidity Dev Should Know!](https://0xmacro.com/library/gas-nums)
 - [This repository contains projects implementing both low-level and high-level concepts of Solidity in an incremental learning pattern!](https://github.com/tinotendajoe01/Solidity-Blockhain)
@@ -171,6 +176,13 @@
 - [ list of FREE resources to make Web3 accessible to everyone.](https://github.com/FrancescoXX/100-days-of-Web3)
 - [How to understand EVM byte code...](https://blog.trustlook.com/understand-evm-bytecode-part-1/)
 - [Awesome Blogs](https://start.me/p/QRg5ad/officercia) & [Explanation](https://t.me/officer_cia/155)
+
+### Front-end Security
+
+- [Frontend Security, Web2 vs Web3 Bugs](https://www.theseus.fi/bitstream/handle/10024/170724/Aboualy_Mahmoud_bachelor_thesis.pdf)
+- [Scroll Workshop Rust House](https://drive.google.com/file/d/12-e1g8Ad7q0avIOge-NELNBaDlpmk0TV/view)
+- [DApp Frontend Security](https://blog.embarklabs.io/news/2020/01/30/dapp-frontend-security/index.html)
+- [MVP for OpSec](https://docs.google.com/document/u/0/d/1-_0Wlwch_vtkPM4F-SdEXLjQYaYT7KoPlU2rjt7tkLQ/mobilebasic)
 
 ## Work...?
 
