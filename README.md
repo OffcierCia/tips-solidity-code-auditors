@@ -176,6 +176,13 @@
 - [ list of FREE resources to make Web3 accessible to everyone.](https://github.com/FrancescoXX/100-days-of-Web3)
 - [How to understand EVM byte code...](https://blog.trustlook.com/understand-evm-bytecode-part-1/)
 - [Awesome Blogs](https://start.me/p/QRg5ad/officercia) & [Explanation](https://t.me/officer_cia/155)
+- [How to access real-time smart contract data from Python code (using Lido contract as an example)](https://medium.com/@balakhonoff_47314/how-to-access-real-time-smart-contract-data-from-python-code-using-lido-as-an-example-38738ff077c5)
+- [Wallet EIP-712 Injection Vulnerability](https://www.coinspect.com/wallet-EIP-712-injection-vulnerability/)
+- [Vyper: A Security Comparison with Solidity Based on Common Vulnerabilities](https://arxiv.org/pdf/2003.07435.pdf)
+- [Unprotected Swap() Function: A ERC777 Reentrancy Vulnerability](https://medium.com/@Heuss/unprotected-swap-function-a-erc777-reentrancy-vulnerability-81aaeaa75a2a)
+- [Metamorphic Smart Contracts: Is EVM Code Truly Immutable?](https://mixbytes.io/blog/metamorphic-smart-contracts-is-evm-code-truly-immutable)
+- [One more problem with ERC777](https://mixbytes.io/blog/one-more-problem-with-erc777)
+- [Randomness List](https://alpine-agate-fa5.notion.site/Randomness-a0632b0800814de280e273b9cdb264bc)
 
 ### Front-end Security
 
