@@ -33,10 +33,11 @@
 14. Check out GasBad which is an open-source project that evaluates [gas efficiency in Solidity](https://github.com/ecivini/gas-bad) libraries!
 15. Try out this tool - it scans constructor of [solidity smart contract for checks](https://github.com/elkaholic6/Solidity-constructor-analysis) to zero address.
 16. [DeFi Common Fork Bugs List](https://github.com/YAcademy-Residents/defi-fork-bugs).
-17. Try using [Semgrep rules for smart contracts](https://github.com/Decurity/semgrep-smart-contracts) based on DeFi exploits!
-18. Complete this [set of tasks](https://github.com/pessimistic-io/internship-tasks) & check out this curated [list of web3Security materials and resources](https://github.com/Anugrahsr/Awesome-web3-Security) For Pentesters and Bug Hunters!
-19. Let's break down such a concept as mind-mapping - [study this list](https://github.com/OffcierCia/non-typical-OSINT-guide#mind-mapping) & check out [AuditorsRoadmap](https://github.com/razzorsec/AuditorsRoadmap) mind-map!
-20. [How To Learn Fast?](https://degatchi.com/articles/how-to-learn-fast)
+17. There was also an [incredible tool](https://github.com/lpinilla/Smart-Contract-Hash-Matcher), and I really like [this idea](https://twitter.com/zellic_io/status/1592660477502717952), since it is probably a [logical continuation](https://twitter.com/zellic_io/status/1592660477502717952) of an [old script](https://github.com/lpinilla/Smart-Contract-Hash-Matcher) and [this service](https://contract-diff.xyz), but this is actually lot better than another simulator ([it](https://twitter.com/zellic_io/status/1592660477502717952) probably uses simulation like in [this](https://telegra.ph/A-Short-List-of-the-Rug-Checker-Tools-04-09) list).
+18. Try using [Semgrep rules for smart contracts](https://github.com/Decurity/semgrep-smart-contracts) based on DeFi exploits!
+19. Complete this [set of tasks](https://github.com/pessimistic-io/internship-tasks) & check out this curated [list of web3Security materials and resources](https://github.com/Anugrahsr/Awesome-web3-Security) For Pentesters and Bug Hunters!
+20. Let's break down such a concept as mind-mapping - [study this list](https://github.com/OffcierCia/non-typical-OSINT-guide#mind-mapping) & check out [AuditorsRoadmap](https://github.com/razzorsec/AuditorsRoadmap) mind-map!
+21. [How To Learn Fast?](https://degatchi.com/articles/how-to-learn-fast)
 
 ## Tools & Services
 
