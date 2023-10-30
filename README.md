@@ -24,20 +24,25 @@
 5. MEV / Sandwich / Front-run & Back-run: [Compilation](https://telegra.ph/Cool-Pack-for-Chads-10-19) & [advanced](https://medium.com/1inch-network/advanced-mev-strategies-lp-sandwich-and-reverse-lp-sandwich-attacks-4558c631feff) info.
 6. Try [Slither Detectors by Pessimistic.io](https://github.com/pessimistic-io/slitherin) & check out [SolCurity](https://github.com/Rari-Capital/solcurity).
 7. Give a try: [Pyrometer](https://github.com/nascentxyz/pyrometer) & [Sporalyzer](https://blog.fungify.it/p/introducing-sporalyzer-a-tool-for).
-8. Explore Web3 with full confidence guarded by [Web3Antivirus security browser extension](https://web3antivirus.io/) & [learn evm attacks](https://github.com/coinspect/learn-evm-attacks)!
+8. Explore Web3 with full confidence guarded by [Web3Antivirus security browser extension](https://web3antivirus.io/) & [learn evm attacks](https://github.com/coinspect/learn-evm-attacks)! Consider [auditing](https://twitter.com/tpiliposian/status/1699387384075329718) as part of a team.
 9. [Try using obsidian.md for notes!](https://github.com/WebBreacher/obsidian-osint-templates) & check out [Audit Quality](https://github.com/audit-quality)!
 10. [Check out](https://officercia.mirror.xyz/DD3t4MB6J6GsRZlkqc8FSdW_4ZDa7pj6CAADzcGJiXo) R.xyz ([link!](https://r.xyz/)) and apply for a closed beta ([here](https://r.xyz/))!
 11. Follow my [own blog](https://officercia.mirror.xyz/) & [Hexens' blog](https://hexens.io/blog)!
-12. This project was created to support [Code4rena Bot Races with useful](https://github.com/DadeKuma/bot-racer) stats and tools. Read more about it [here](https://x.com/DadeKuma/status/1656199257454530562?s=20) & try [4naly3er](https://github.com/Picodes/4naly3er)!
+12. This project was created to support [Code4rena Bot Races with useful](https://github.com/DadeKuma/bot-racer) stats and tools. Read [more](https://twitter.com/0xtodorov/status/1650924881498742788) about it [here](https://x.com/DadeKuma/status/1656199257454530562?s=20) & try [4naly3er](https://github.com/Picodes/4naly3er)!
 13. [Bot Racing: The Rise of Web3 Bots.](https://coinsbench.com/bot-racing-the-rise-of-web3-bots-3abda06cd448) & [Code4Rena Bot Racing explained](https://www.youtube.com/watch?v=XVQLSeGTJ_M)!
 14. Check out GasBad which is an open-source project that evaluates [gas efficiency in Solidity](https://github.com/ecivini/gas-bad) libraries!
 15. Try out this tool - it scans constructor of [solidity smart contract for checks](https://github.com/elkaholic6/Solidity-constructor-analysis) to zero address.
 16. [DeFi Common Fork Bugs List](https://github.com/YAcademy-Residents/defi-fork-bugs).
 17. There was also an [incredible tool](https://github.com/lpinilla/Smart-Contract-Hash-Matcher), and I really like [this idea](https://twitter.com/zellic_io/status/1592660477502717952), since it is probably a [logical continuation](https://twitter.com/zellic_io/status/1592660477502717952) of an [old script](https://github.com/lpinilla/Smart-Contract-Hash-Matcher) and [this service](https://contract-diff.xyz), but this is actually lot better than another simulator ([it](https://twitter.com/zellic_io/status/1592660477502717952) probably uses simulation like in [this](https://telegra.ph/A-Short-List-of-the-Rug-Checker-Tools-04-09) list).
 18. Try using [Semgrep rules for smart contracts](https://github.com/Decurity/semgrep-smart-contracts) based on DeFi exploits!
-19. Complete this [set of tasks](https://github.com/pessimistic-io/internship-tasks) & check out this curated [list of web3Security materials and resources](https://github.com/Anugrahsr/Awesome-web3-Security) For Pentesters and Bug Hunters!
-20. Let's break down such a concept as mind-mapping - [study this list](https://github.com/OffcierCia/non-typical-OSINT-guide#mind-mapping) & check out [AuditorsRoadmap](https://github.com/razzorsec/AuditorsRoadmap) mind-map!
-21. [How To Learn Fast?](https://degatchi.com/articles/how-to-learn-fast)
+19. Complete this [set of tasks](https://github.com/pessimistic-io/internship-tasks)!
+20. Check out this curated [list of web3Security materials and resources](https://github.com/Anugrahsr/Awesome-web3-Security) For Pentesters and Bug Hunters!
+21. Let's break down such a concept as mind-mapping - [study this list](https://github.com/OffcierCia/non-typical-OSINT-guide#mind-mapping) & check out [AuditorsRoadmap](https://github.com/razzorsec/AuditorsRoadmap) mind-map!
+22. [Explorer Bookmark](https://twitter.com/tpiliposian/status/1716760766223630790) is a fantastic VS Code extension for all the code4rena Wardens, Sherlockdefi Watsons, and CodeHawks Hawks out there. No more struggling to find contracts in [scope among](https://www.youtube.com/watch?v=BDtbTCuJoOM) a sea of others. [With this extension](https://twitter.com/tpiliposian/status/1716760766223630790), you can easily collect in one place and access all the contracts within the scope of your audit. Enjoy a more streamlined workflow!
+23. Also [use the "Hide Comments"](https://twitter.com/martinmarchev/status/1703396096070844508) VSCode extension when [auditing](https://medium.com/coinmonks/solidity-for-dummies-736312af0dfe). It [helps](https://blockchainalpha.hashnode.dev/how-to-build-a-profitable-web3-auditing-business-for-solo-auditors-and-firms) you cut through the noise, remain unbiased and focus on what the [code](https://medium.com/@numacodes/extrapolating-concepts-to-web3-coding-and-understanding-a-decentralized-bank-using-solidity-69797a771c47) truly does! Study [audits](https://zuhaibmd.medium.com/audit-anomalies-archive-issue-6-b6ed431e82b7) anomalies [archive](https://solodit.xyz/).
+24. Use the "[Solidity Visual Developer](https://x.com/cyberthirst/status/1690271146371866625?s=20)" extension [which comes with the](https://twitter.com/realjohnnytime/status/1607705939104202752) **@audit, @audit-info, @audit-ok, @audit-issue** to categorize your notes!
+25. Also Use [Inline Bookmarks](https://twitter.com/realjohnnytime/status/1668939507448573954) VSCode Extension by ConsenSys Audits to organize all your audit comments & findings! Thoroughly document/explain each function using simple language to [reason about](https://twitter.com/bytes032/status/1626206977897496576) it.
+26. [How To Learn Fast?](https://degatchi.com/articles/how-to-learn-fast)
 
 ## Tools & Services
 
@@ -137,6 +142,7 @@
 - [Zk Proofs Explained](https://drive.google.com/file/d/12-e1g8Ad7q0avIOge-NELNBaDlpmk0TV/view)
 - [On Bitcon Custody...](https://www.youtube.com/watch?v=LTMAEN6wR8o)
 - [Join my TG folder!](https://t.me/addlist/uesom31GM1I4Yjgy)
+- [Easy Quick Start Guide: Сrypto Data Analytics by 0xdatawolf](https://www.linkedin.com/pulse/easy-quick-start-guide-crypto-data-analytics-0xdatawolf--pzjlc)
 - [All About Tenderly Sandbox](https://blog.tenderly.co/how-to-use-sandbox-as-smart-contract-playground/)
 - [Vault Math - How much shares to mint? How much token to withdraw?](https://www.youtube.com/watch?v=k7WNibJOBXE)
 - [Foundry Cheatsheet](https://github.com/dabit3/foundry-cheatsheet)
