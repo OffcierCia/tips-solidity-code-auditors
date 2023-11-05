@@ -42,7 +42,7 @@
 23. Also [use the "Hide Comments"](https://twitter.com/martinmarchev/status/1703396096070844508) VSCode extension when [auditing](https://medium.com/coinmonks/solidity-for-dummies-736312af0dfe). It [helps](https://blockchainalpha.hashnode.dev/how-to-build-a-profitable-web3-auditing-business-for-solo-auditors-and-firms) you cut through the noise, remain unbiased and focus on what the [code](https://medium.com/@numacodes/extrapolating-concepts-to-web3-coding-and-understanding-a-decentralized-bank-using-solidity-69797a771c47) truly does! Study [audits](https://zuhaibmd.medium.com/audit-anomalies-archive-issue-6-b6ed431e82b7) anomalies [archive](https://solodit.xyz/).
 24. Use the "[Solidity Visual Developer](https://x.com/cyberthirst/status/1690271146371866625?s=20)" extension [which comes with the](https://twitter.com/realjohnnytime/status/1607705939104202752) **@audit, @audit-info, @audit-ok, @audit-issue** to categorize your notes!
 25. Also Use [Inline Bookmarks](https://twitter.com/realjohnnytime/status/1668939507448573954) VSCode Extension by ConsenSys Audits to organize all your audit comments & findings! Thoroughly document/explain each function using simple language to [reason about](https://twitter.com/bytes032/status/1626206977897496576) it.
-26. [How To Learn Fast?](https://degatchi.com/articles/how-to-learn-fast)
+26. [How To Learn Fast?](https://degatchi.com/articles/how-to-learn-fast) | [How to make better decisions?](https://twitter.com/chamath/status/1719887650688282786)
 
 ## Tools & Services
 
