@@ -142,6 +142,7 @@
 - [Zk Proofs Explained](https://drive.google.com/file/d/12-e1g8Ad7q0avIOge-NELNBaDlpmk0TV/view)
 - [On Bitcon Custody...](https://www.youtube.com/watch?v=LTMAEN6wR8o)
 - [Join my TG folder!](https://t.me/addlist/uesom31GM1I4Yjgy)
+- [The Ultimate Security Checklist](https://www.beirao.xyz/blog/Security-checklist)
 - [Easy Quick Start Guide: Сrypto Data Analytics by 0xdatawolf](https://www.linkedin.com/pulse/easy-quick-start-guide-crypto-data-analytics-0xdatawolf--pzjlc)
 - [All About Tenderly Sandbox](https://blog.tenderly.co/how-to-use-sandbox-as-smart-contract-playground/)
 - [Vault Math - How much shares to mint? How much token to withdraw?](https://www.youtube.com/watch?v=k7WNibJOBXE)
