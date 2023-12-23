@@ -25,7 +25,7 @@
 6. Try [Slither Detectors by Pessimistic.io](https://github.com/pessimistic-io/slitherin) & check out [SolCurity](https://github.com/Rari-Capital/solcurity).
 7. Give a try: [Pyrometer](https://github.com/nascentxyz/pyrometer) & [Sporalyzer](https://blog.fungify.it/p/introducing-sporalyzer-a-tool-for).
 8. Explore Web3 with full confidence guarded by [Web3Antivirus security browser extension](https://web3antivirus.io/) & [learn evm attacks](https://github.com/coinspect/learn-evm-attacks)! Consider [auditing](https://twitter.com/tpiliposian/status/1699387384075329718) as part of a team.
-9. [Try using obsidian.md for notes!](https://github.com/WebBreacher/obsidian-osint-templates) & check out [Audit Quality](https://github.com/audit-quality)!
+9. [Try using obsidian.md for notes!](https://github.com/WebBreacher/obsidian-osint-templates), set [it up correctly](https://github.com/thor314/obsidian-setup) & check out [Audit Quality](https://github.com/audit-quality)!
 10. [Check out](https://officercia.mirror.xyz/DD3t4MB6J6GsRZlkqc8FSdW_4ZDa7pj6CAADzcGJiXo) R.xyz ([link!](https://r.xyz/)) and apply for a closed beta ([here](https://r.xyz/))!
 11. Follow my [own blog](https://officercia.mirror.xyz/) & [Hexens' blog](https://hexens.io/blog)!
 12. This project was created to support [Code4rena Bot Races with useful](https://github.com/DadeKuma/bot-racer) stats and tools. Read [more](https://twitter.com/0xtodorov/status/1650924881498742788) about it [here](https://x.com/DadeKuma/status/1656199257454530562?s=20) & try [4naly3er](https://github.com/Picodes/4naly3er)!
