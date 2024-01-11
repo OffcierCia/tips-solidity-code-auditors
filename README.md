@@ -1,5 +1,9 @@
 # Tips for Solidity Code Auditors
 
+![Roadmap](./Taxonomy.png)
+
+> Source at [wiki.r.security](https://wiki.r.security/wiki/Main_Page)
+
 | Section                    | Link                                                                                                                         |
 |----------------------------|------------------------------------------------------------------------------------------------------------------------------|
 | General Tips & Suggestions | [Explore](https://github.com/OffcierCia/tips-solidity-code-auditors/blob/main/README.md#general-tips--suggestions)           |
