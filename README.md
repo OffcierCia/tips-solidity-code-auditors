@@ -50,6 +50,7 @@
 
 ## Tools & Services
 
+- [glide.r](https://glide.r.xyz/)
 - [sol2uml](https://github.com/naddison36/sol2uml)
 - [tx2uml](https://github.com/naddison36/tx2uml)
 - [EVM - Draw](https://twitter.com/danielvf/status/1637815201243320320) & [link](https://github.com/DanielVF/evm-contract-draw)
