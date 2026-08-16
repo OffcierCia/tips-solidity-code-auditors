@@ -2,8 +2,6 @@
 
 ![Roadmap](./Taxonomy.png)
 
-> Source at [wiki.r.security](https://wiki.r.security/wiki/Main_Page)
-
 | Section                    | Link                                                                                                                         |
 |----------------------------|------------------------------------------------------------------------------------------------------------------------------|
 | General Tips & Suggestions | [Explore](https://github.com/OffcierCia/tips-solidity-code-auditors/blob/main/README.md#general-tips--suggestions)           |
@@ -256,7 +254,7 @@ The best thing is to support me directly by donating to my address on Ethereum M
 #
 
 - [Check out my Telegram Channel](https://t.me/officer_cia)
-- [Follow my Twitter](https://twitter.com/officer_cia)
+- [Follow my Twitter](https://twitter.com/officer_secret)
 - [Track all my activities](https://t.me/officer_cia/296)
 - [All my Socials](https://t.me/officer_cia/296)
 
